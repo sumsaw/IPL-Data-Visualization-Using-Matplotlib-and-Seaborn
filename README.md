@@ -11,8 +11,8 @@ The Kaggle link consits of two dataset  __Deliveries and Matches__ . In this rep
 # Key Challenges <br>
 
 This data was pretty neat by itself . The only challange I faces here was. <br>
-Handling Mising Values which I imputed from my knowledge of the tournament and Google search. <br>
-Combining/Correcting team names which have changed over the years .  <br>
+- Handling Mising Values which I imputed from my knowledge of the tournament and Google search. <br>
+- Combining/Correcting team names which have changed over the years .  <br>
 
 
 # To Execute this project 
@@ -24,14 +24,14 @@ Place the dataset in the same directory as the notebook server and excecute all 
 
 # Key Obeservation from the analysis 
 
-More Matches where played in 2011 ,2012 and 2013 seasons <br>
-Mumbai Indians team played most number of matches __(187)__ across all season and also won the tournament 4 times <br>
-Mumbai City has hosted the most number of matches __(101)__ in IPL <br>
-Eden Gardens is the stadium in which most number of games have been played (77)<br>
-Deccan Chargers has highest toss winning percentage __57.3%__ <br>
-After winning the toss the team select to field __61.2%__ of the time as comapred to bat 38.8%<br>
-Most season teams have chosen to field first with the last three season (2017-2019) showing the most polarising effect which shows how team mentaliy has changed  <br>
-Chennai Super Kings , Deccan Chargers and Pune Warriors are the team which perfer to bat first after winning the toss <br>
-Gujarat Lions have the most highest win percentage __(66/7%)__ for the match once they win the toss <br>
-__RJ Ravi and Rod Tucker__ is the most common umpire combinations across 10 years <br>
-__Chris Gayle__ has most number of Man of the Match awards __(21)__ in the tournament <br>
+- More Matches where played in 2011 ,2012 and 2013 seasons <br>
+- Mumbai Indians team played most number of matches __(187)__ across all season and also won the tournament 4 times <br>
+- Mumbai City has hosted the most number of matches __(101)__ in IPL <br>
+- Eden Gardens is the stadium in which most number of games have been played (77)<br>
+- Deccan Chargers has highest toss winning percentage __57.3%__ <br>
+- After winning the toss the team select to field __61.2%__ of the time as comapred to bat 38.8%<br>
+- Most season teams have chosen to field first with the last three season (2017-2019) showing the most polarising effect which shows how team mentaliy has changed  <br>
+- Chennai Super Kings , Deccan Chargers and Pune Warriors are the team which perfer to bat first after winning the toss <br>
+- Gujarat Lions have the most highest win percentage __(66/7%)__ for the match once they win the toss <br>
+- __RJ Ravi and Rod Tucker__ is the most common umpire combinations across 10 years <br>
+- __Chris Gayle__ has most number of Man of the Match awards __(21)__ in the tournament <br>
