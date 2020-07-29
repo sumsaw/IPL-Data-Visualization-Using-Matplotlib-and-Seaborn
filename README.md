@@ -11,8 +11,14 @@ The Kaggle link consits of two dataset  __Deliveries and Matches__ . In this rep
 # Key Challenges <br>
 
 This data was pretty neat by itself . The only challange I faces here was. <br>
->Handling Mising Values which I imputed from my knowledge of the tournament and Google search. <br>
->Combining/Correcting team names which have changed over the years .  <br>
+Handling Mising Values which I imputed from my knowledge of the tournament and Google search. <br>
+Combining/Correcting team names which have changed over the years .  <br>
+
+
+# To Execute this project 
+You would have to download just the ipython notebook and the matches.csv dataset from the repo<br>
+Place the dataset in the same directory as the notebook server and excecute all cells to generate the graphs <br>
+
 
 # Please have look at the notebook for the detailed graphs 
 
